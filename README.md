@@ -1,3 +1,7 @@
+![image](https://github.com/RohitChandraJoshi/SIH2023-Meeting-Scheduling-module/assets/102249718/8c96e45d-b7da-4532-b670-7a4c7937b2ba)
+
+![image](https://github.com/RohitChandraJoshi/SIH2023-Meeting-Scheduling-module/assets/102249718/c9f9225e-5815-479a-a947-15c7c3802a7b)
+
 ## Available Scripts
 
 In the project directory, you can run:
